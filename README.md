@@ -7,9 +7,9 @@
 - 预约成功后，可以查看会议详情。后台功能包括：会议室创建，预定记录查询，生成单个会议室小程序码海报，发布公告，用户注册审核等。
 - 采用腾讯提供的小程序云开发解决方案，无须服务器和域名即可快速上线。
 
-![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/113284680/189520697-c17d47ad-e96d-4f7d-a1d9-a7b3df8c99b2.png)
+![image](https://user-images.githubusercontent.com/113284680/189520698-329f9bd2-3018-4f30-9ec0-4753d5a05c72.png)
 
-![输入图片说明](demo/%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E5%AE%9A%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).jpeg)
 
 
 ## 技术运用
@@ -25,11 +25,13 @@
 - 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
 - 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
+ ![image](https://user-images.githubusercontent.com/113284680/189520702-b7de3b45-ea9a-4794-94e3-117896da3814.png)
+
 
 
 ## 演示 
- ![输入图片说明](demo/%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+ ![image](https://user-images.githubusercontent.com/113284680/189520705-5b17d3b8-3db7-4fe6-8142-7a59342e0bfa.png)
+
 
 ## 安装
 
@@ -39,28 +41,34 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+![image](https://user-images.githubusercontent.com/113284680/189520709-d34f87d4-a3ee-438a-8c90-1a12a7532994.png)
+![image](https://user-images.githubusercontent.com/113284680/189520710-f568482e-f42a-4847-9786-edbec3ac12b1.png)
+![image](https://user-images.githubusercontent.com/113284680/189520714-7a5b5d24-8b1c-4bbb-bbb2-c379777733f9.png)
+![image](https://user-images.githubusercontent.com/113284680/189520717-fe818b5e-b7b4-43ef-9015-23b9b3db887c.png)
+![image](https://user-images.githubusercontent.com/113284680/189520719-fa639b1a-a169-4581-b2d3-67995addd253.png)
+![image](https://user-images.githubusercontent.com/113284680/189520721-546cb678-6ba4-4b0e-a292-be58c9cf7082.png)
+![image](https://user-images.githubusercontent.com/113284680/189520724-ba85aab6-04d4-4759-8256-3c5eb59e4429.png)
+![image](https://user-images.githubusercontent.com/113284680/189520725-472bace6-4e19-4806-8cdc-8e79d9aee6ab.png)
+![image](https://user-images.githubusercontent.com/113284680/189520727-cc9fef38-a15b-46d8-9d2f-56d7b1eeee29.png)
+![image](https://user-images.githubusercontent.com/113284680/189520728-804eb01f-beb9-4fb6-a217-9c8d6b0ffc1e.png)
+![image](https://user-images.githubusercontent.com/113284680/189520731-544d2586-d97e-45d5-8d41-1ff07f7863b4.png)
+![image](https://user-images.githubusercontent.com/113284680/189520736-e2d66077-b7ab-44d1-aeb3-83269b6239d0.png)
 
-![输入图片说明](demo/2%E5%85%AC%E5%91%8A%E9%80%9A%E7%9F%A5.png)
 
-![输入图片说明](demo/3%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
 
-![输入图片说明](demo/4%E5%8D%95%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6.png)
- ![输入图片说明](demo/5%E9%80%89%E6%8B%A9%E9%A2%84%E7%BA%A6%E6%97%B6%E6%AE%B5.png)
-![输入图片说明](demo/6%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6%E6%B5%B7%E6%8A%A5.png)
-![输入图片说明](demo/7%E5%A1%AB%E5%86%99%E9%A2%84%E7%BA%A6%E8%B5%84%E6%96%99.png)
-![输入图片说明](demo/8%E9%A2%84%E7%BA%A6%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/9%E4%BC%9A%E8%AE%AE%E6%97%A5%E5%8E%86.png)
-![输入图片说明](demo/10%E6%88%91%E7%9A%84.png)
-![输入图片说明](demo/11%E6%88%91%E7%9A%84%E9%A2%84%E5%AE%9A.png)
-
+ 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
-![输入图片说明](demo/12%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/13%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E7%AE%A1%E7%90%86.png)
-![输入图片说明](demo/14%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E6%B7%BB%E5%8A%A0.png)
-![输入图片说明](demo/15%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E9%A2%84%E7%BA%A6%E8%AE%B0%E5%BD%95.png)
+- ![image](https://user-images.githubusercontent.com/113284680/189520739-a18cbca2-53e7-47e6-800c-d7f71cf9b568.png)
+![image](https://user-images.githubusercontent.com/113284680/189520740-b3d996f1-dcf8-457d-854c-986d69e762ac.png)
+![image](https://user-images.githubusercontent.com/113284680/189520743-033f48ec-02d3-4c8a-945a-b29ed6eb4c4e.png)
+![image](https://user-images.githubusercontent.com/113284680/189520745-ba16383f-a3e3-450d-826c-f13dee9f63d4.png)
+![image](https://user-images.githubusercontent.com/113284680/189520747-a8461567-98ab-497c-90db-08d9ca2a2638.png)
+![image](https://user-images.githubusercontent.com/113284680/189520751-fb727830-b615-4de1-b175-b958c82917f6.png)
+![image](https://user-images.githubusercontent.com/113284680/189520762-a6207c73-6893-47e9-82b0-a2e651eb0a96.png)
 
-![输入图片说明](demo/16%E5%90%8E%E5%8F%B0-%E9%A2%84%E7%BA%A6%E8%AE%B0%E5%BD%95%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/17%E5%90%8E%E5%8F%B0-%E4%BC%9A%E8%AE%AE%E5%AE%A4%E8%8F%9C%E5%8D%95.png)
-![输入图片说明](demo/18%E5%90%8E%E5%8F%B0-%E9%80%9A%E7%9F%A5%E7%AE%A1%E7%90%86.png)
+
+![Uploading image.png…]()
+
+
+ 
